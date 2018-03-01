@@ -1,0 +1,19 @@
+{
+  "name": "eleme-server",
+  "version": "1.0.0",
+  "description": "as server for eleme, use express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huangpb/eleme-server.git"
+  },
+  "author": "noah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huangpb/eleme-server/issues"
+  },
+  "homepage": "https://github.com/huangpb/eleme-server#readme"
+}
