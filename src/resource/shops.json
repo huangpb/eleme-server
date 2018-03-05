@@ -1,0 +1,153 @@
+[
+  {
+    "img": "baiguoyuan.jpg",
+    "name": "百果园",
+    "stars": 4.0,
+    "sale": 3221,
+    "startPrice": 20,
+    "freight": 3,
+    "distance": 3.77,
+    "time": 30,
+    "insure": true,
+    "sendVIP": true,
+    "activity": [
+      {"name": "reduce", "text": "满30减16，满45减25"},
+      {"name": "first", "text": "首单立减5元"},
+      {"name": "get", "text": "进店领5元代金券"}
+    ]
+  },
+  {
+    "img": "xinbailu.jpg",
+    "name": "新白鹿",
+    "stars": 4.5,
+    "sale": 3221,
+    "startPrice": 20,
+    "freight": 3,
+    "distance": 3.77,
+    "time": 30,
+    "insure": true,
+    "sendVIP": true,
+    "activity": [
+      {"name": "reduce", "text": "满30减16，满45减25"},
+      {"name": "first", "text": "首单立减5元"},
+      {"name": "get", "text": "进店领5元代金券"}
+    ]
+  },
+  {
+    "img": "kfc.jpg",
+    "name": "肯德基",
+    "stars": 4.1,
+    "sale": 3221,
+    "startPrice": 20,
+    "freight": 3,
+    "distance": 3.77,
+    "time": 30,
+    "insure": true,
+    "sendVIP": true
+  },
+  {
+    "img": "laoniangjiu.jpg",
+    "name": "老娘舅",
+    "stars": 4.0,
+    "sale": 3221,
+    "startPrice": 20,
+    "freight": 3,
+    "distance": 3.77,
+    "time": 30,
+    "activity": [
+      {"name": "reduce", "text": "满30减16，满45减25"},
+      {"name": "first", "text": "首单立减5元"},
+      {"name": "get", "text": "进店领5元代金券"}
+    ]
+  },
+  {
+    "img": "laotouer.jpg",
+    "name": "老头儿油爆虾",
+    "stars": 4.0,
+    "sale": 3221,
+    "startPrice": 20,
+    "freight": 3,
+    "distance": 3.77,
+    "time": 30,
+    "activity": [
+      {"name": "reduce", "text": "满30减16，满45减25"},
+      {"name": "first", "text": "首单立减5元"},
+      {"name": "get", "text": "进店领5元代金券"}
+    ]
+  },
+  {
+    "img": "McDonald.jpg",
+    "name": "麦当劳",
+    "stars": 4.0,
+    "sale": 3221,
+    "startPrice": 20,
+    "freight": 3,
+    "distance": 3.77,
+    "time": 30,
+    "activity": [
+      {"name": "reduce", "text": "满30减16，满45减25"},
+      {"name": "first", "text": "首单立减5元"},
+      {"name": "get", "text": "进店领5元代金券"}
+    ]
+  },
+  {
+    "img": "nongtangli.jpg",
+    "name": "弄堂里",
+    "stars": 4.0,
+    "sale": 3221,
+    "startPrice": 20,
+    "freight": 3,
+    "distance": 3.77,
+    "time": 30,
+    "activity": [
+      {"name": "reduce", "text": "满30减16，满45减25"},
+      {"name": "first", "text": "首单立减5元"},
+      {"name": "get", "text": "进店领5元代金券"}
+    ]
+  },
+  {
+    "img": "starbucks.jpg",
+    "name": "星巴克",
+    "stars": 4.0,
+    "sale": 3221,
+    "startPrice": 20,
+    "freight": 3,
+    "distance": 3.77,
+    "time": 30,
+    "activity": [
+      {"name": "reduce", "text": "满30减16，满45减25"},
+      {"name": "first", "text": "首单立减5元"},
+      {"name": "get", "text": "进店领5元代金券"}
+    ]
+  },
+  {
+    "img": "xianfeng.jpg",
+    "name": "鲜丰水果",
+    "stars": 4.0,
+    "sale": 3221,
+    "startPrice": 20,
+    "freight": 3,
+    "distance": 3.77,
+    "time": 30,
+    "activity": [
+      {"name": "reduce", "text": "满30减16，满45减25"},
+      {"name": "first", "text": "首单立减5元"},
+      {"name": "get", "text": "进店领5元代金券"}
+    ]
+  },
+  {
+    "img": "zhengxin.jpg",
+    "name": "正新鸡排",
+    "stars": 4.0,
+    "sale": 3221,
+    "startPrice": 20,
+    "freight": 3,
+    "distance": 3.77,
+    "time": 30,
+    "activity": [
+      {"name": "reduce", "text": "满30减16，满45减25"},
+      {"name": "first", "text": "首单立减5元"},
+      {"name": "get", "text": "进店领5元代金券"}
+    ]
+  }
+]

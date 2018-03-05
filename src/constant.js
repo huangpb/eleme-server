@@ -1,1 +1,5 @@
-exports.host = '/v1'
+module.exports = {
+  port: 8001,
+  host: '/v1',
+}
+

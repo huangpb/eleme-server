@@ -1,15 +1,26 @@
 [
   [
-    {"img": "food.png", "name": "美食"},
-    {"img": "tea.png", "name": "下午茶"},
-    {"img": "shop.png", "name": "商超便利"},
-    {"img": "fruit.png", "name": "果蔬生鲜"},
-    {"img": "off50%.png", "name": "大牌5折"},
-    {"img": "medicine.png", "name": "医药健康"},
-    {"img": "flower.png", "name": "浪漫鲜花"},
-    {"img": "spicyHotPot.png", "name": "麻辣烫"},
-    {"img": "localFood.png", "name": "地方菜系"},
-    {"img": "pizza.png", "name": "披萨意面"}
+    [
+      {"img": "food.png", "name": "美食"},
+      {"img": "tea.png", "name": "下午茶"},
+      {"img": "shop.png", "name": "商超便利"},
+      {"img": "fruit.png", "name": "果蔬生鲜"},
+      {"img": "off50%.png", "name": "大牌5折"}
+    ],
+    [
+      {"img": "medicine.png", "name": "医药健康"},
+      {"img": "flower.png", "name": "浪漫鲜花"},
+      {"img": "spicyHotPot.png", "name": "麻辣烫"},
+      {"img": "localFood.png", "name": "地方菜系"},
+      {"img": "pizza.png", "name": "披萨意面"}
+    ]
   ],
-  []
+  [
+    [
+      {"img": "food.png", "name": "美食"},
+      {"img": "tea.png", "name": "下午茶"},
+      {"img": "shop.png", "name": "商超便利"},
+      {"img": "fruit.png", "name": "果蔬生鲜"}
+    ]
+  ]
 ]
